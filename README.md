@@ -8,6 +8,7 @@ management with [pytest](https://pytest.org/en/latest/) and
 ## Run it
 
 ```bash
+pipenv install -d
 pipenv run tox
 ```
 
